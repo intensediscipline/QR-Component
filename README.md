@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://intensediscipline.github.io/QR-Component/)
+- Solution URL: [QR Component](https://intensediscipline.github.io/QR-Component/)
 
 ## My process
 
@@ -48,7 +48,7 @@ body {
 
 Used Flexbox on the body to control the positioning of the card div.
 
-Also, learned alot about the git process just by following this challenge.
+Also, learned alot about the git process and how to use Markdown just by following this challenge.
 
 ### Continued development
 
